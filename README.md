@@ -2,9 +2,14 @@
 
 A **cross-platform Python antivirus prototype** for defensive/security-learning experiments. The current code is a small heuristic scanner with a Tkinter GUI, process viewer, quarantine (“blackhole”) storage, and an experimental hash-based audit logger.
 
+
+## If anyone wants to contribute i this project feel free to do it. Enhance it, make it really working, catch bugs and fix them. Like upgrade the project overall as needed. the core idea of the project is explained below. 
+
+
 ## ⚠️ Project Status
 
 **Work in progress / incomplete prototype.**
+This is a work in progress project, do not run it bliendly in your system, it may pull some files from your system. make sure yu first know what this is.
 
 The original idea was more ambitious: automatically detect malicious files, pull them into a “black hole”, and execute them inside a strong isolated sandbox for behavioral analysis. **That complete system was never finished.** The current repository does **not** implement a real malware-detonation sandbox and does not execute detected files.
 
