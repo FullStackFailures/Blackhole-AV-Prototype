@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+logs/*.log
+.blackhole_av/
+.DS_Store
+Thumbs.db
