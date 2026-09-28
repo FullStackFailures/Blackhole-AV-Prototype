@@ -3,7 +3,7 @@
 A **cross-platform Python antivirus prototype** for defensive/security-learning experiments. The current code is a small heuristic scanner with a Tkinter GUI, process viewer, quarantine (“blackhole”) storage, and an experimental hash-based audit logger.
 
 
-# If anyone wants to contribute i this project feel free to do it. Enhance it, make it really working, catch bugs and fix them. Like upgrade the project overall as needed. the core idea of the project is explained below. 
+### If anyone wants to contribute i this project feel free to do it. Enhance it, make it really working, catch bugs and fix them. Like upgrade the project overall as needed. the core idea of the project is explained below. 
 
 
 ## ⚠️ Project Status
